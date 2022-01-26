@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi there 👋 I'm Pavel
+## Data Scientist
+### I'm working with:
+- Data Analysis
+- Machine Learning
+- Deep Learning
 
 <!--
 **PavelBogoslovskiy/PavelBogoslovskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
